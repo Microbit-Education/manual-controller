@@ -33,7 +33,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/maya-e-s/manual-controller** and click import
+* paste **https://github.com/Microbit-Education/manual-controller** and click import
 
 ## Blocks preview
 
